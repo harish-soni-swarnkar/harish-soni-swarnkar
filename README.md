@@ -95,7 +95,7 @@ Swiss Ephemeris engine validated to the arc-second, agentic AI astrologer (RAG o
 
 ## 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/hk220394
-- GitHub: https://github.com/hk220394
+- LinkedIn: https://www.linkedin.com/in/harish-soni-swarnkar
+- GitHub: https://github.com/harish-soni-swarnkar
 - Email: hk220394@gmail.com
 
