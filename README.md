@@ -29,6 +29,24 @@ Swiss Ephemeris engine validated to the arc-second, agentic AI astrologer (RAG o
 
 ---
 
+## 🧰 Open source
+
+### [sdlc-agents](https://github.com/harish-soni-swarnkar/sdlc-agents)
+
+A full software-delivery agent crew for Claude Code — and, through the open Agent Skills standard, for Codex, Cursor, GitHub Copilot, Gemini CLI and other AI coding tools.
+
+- **29 agents, one shared quality bar** — architect, builder, debugger, refactorer, security, QA, performance, data, SRE, release, compliance, accessibility, FinOps and docs specialists, plus orchestrators that chain them
+- **Six read-only review gates** — PR, code review, design, go-live, production and behavioral parity — each merging several lenses into one verdict
+- **All four lifecycles** — new projects, changes to existing code, cross-stack migrations (e.g. Java → Node) with proven behavioral parity, and runtime upgrades (e.g. Node 18 → 22)
+- **Enforced, not just advised** — hooks block secret reads, force-pushes, destructive commands and edits to existing migrations; git hooks carry the same safety into any tool
+- **Two editions from one source** — a native Claude Code plugin (validated in CI) and a portable set of 30 standard SKILL.md skills
+
+```bash
+npx skills add harish-soni-swarnkar/sdlc-agents/portable
+```
+
+---
+
 ## 💼 What I do
 
 - Lead engineering teams (up to 18) — hiring, mentoring, delivery ownership
@@ -80,6 +98,7 @@ Swiss Ephemeris engine validated to the arc-second, agentic AI astrologer (RAG o
 
 - AI-native development workflows (Claude Code, OpenAI Codex)
 - Agentic AI orchestration and eval-gated LLM systems
+- Open-source agent tooling — [sdlc-agents](https://github.com/harish-soni-swarnkar/sdlc-agents), an SDLC crew for Claude Code and other AI coding tools
 - Scaling OmAstroVedic across web, Android and iOS
 
 ---
@@ -98,4 +117,3 @@ Swiss Ephemeris engine validated to the arc-second, agentic AI astrologer (RAG o
 - LinkedIn: https://www.linkedin.com/in/harish-soni-swarnkar
 - GitHub: https://github.com/harish-soni-swarnkar
 - Email: harishsoniswarnkar@gmail.com
-
