@@ -7,7 +7,7 @@
 I lead engineering teams, architect microservices and LLM platforms, and ship products end to end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Soni%20Swarnkar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hk220394)
-[![Email](https://img.shields.io/badge/Email-hk220394%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:hk220394@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harishsoniswarnkar%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:harishsoniswarnkar@gmail.com)
 [![Website](https://img.shields.io/badge/Website-omastrovedic.com-2E7D32?logo=googlechrome&logoColor=white)](https://www.omastrovedic.com/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-OmAstroVedic-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.omastrovedic.astro_vedic)
 
@@ -97,5 +97,5 @@ Swiss Ephemeris engine validated to the arc-second, agentic AI astrologer (RAG o
 
 - LinkedIn: https://www.linkedin.com/in/harish-soni-swarnkar
 - GitHub: https://github.com/harish-soni-swarnkar
-- Email: hk220394@gmail.com
+- Email: harishsoniswarnkar@gmail.com
 
